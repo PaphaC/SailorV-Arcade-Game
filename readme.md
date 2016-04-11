@@ -2,7 +2,7 @@ SailorV Arcade Game
 ===================
 ![IntroPic](http://i.imgur.com/soyLEXw.png)
 
-A BTA based on the unused sprites of the Sailor Moon arcade game. Nothing much here.
+A BTA from 2013 based on the unused sprites of the Sailor Moon arcade game. Nothing much here. 
 
 At this date (04/2016), there's only a walking and scrolling game. I plan on finishing the fighting game someday, but it's not planned right now. I also need to refactor the code, since it's a real pain to the eye to watch! Feel free to contribute! 
 
