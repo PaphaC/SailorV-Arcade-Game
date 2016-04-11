@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1368196854 source:c:\oxachon\sailormoon\main.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_mixer.h>
+	"structures.h"
+
+1366493168 source:c:\oxachon\sailormoon\evenement.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_mixer.h>
+	"structures.h"
+
+1368187352 c:\oxachon\sailormoon\structures.h
+
+1368196656 source:c:\oxachon\sailormoon\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_mixer.h>
+	"structures.h"
+
