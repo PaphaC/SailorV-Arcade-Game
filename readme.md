@@ -6,7 +6,7 @@ A BTA from 2013 based on the unused sprites of the Sailor Moon arcade game. Noth
 
 At this date (04/2016), there's only a walking and scrolling game. I plan on finishing the fighting game someday, but it's not planned right now. I also need to refactor the code, since it's a real pain to the eye to watch! Feel free to contribute! 
 
-![Géré par Charles](http://s2.n4g.com/news/1118530_3.jpg) Readme by Oxachon
+![GÃ©rÃ© par Charles](http://s2.n4g.com/news/1118530_3.jpg) Readme by PaphaC
 
 
 ----------
